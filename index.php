@@ -1,5 +1,9 @@
+<body bgcolor='aqua'>
+
 <?php
 
-print(Welcome to HOME-LAB !!);
+print("Welcome to HOMELAB !!");
 
 ?>
+
+</body>
